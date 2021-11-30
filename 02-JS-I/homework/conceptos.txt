@@ -1,0 +1,17 @@
+Variables: Las variables son como cajas. Espacios donde podemos guardar datos. Estos datos pueden ser de 
+diferentes tipos (strings, numeros, booleanos, etc). Una vez que declaramos que hay dentro de esa caja (datos), luego cuando 
+lo necesitemos, podemos invocarlas.
+
+Strings: es un tipo de dato que va dentro de la caja (VARIABLE), y es como una cadena de caracteres que puede incluir tanto
+letras como numeros. Los strings deben ir entre comillas. Este es un string: "kjndqwc 23r23rddsc4 433h" y este es 
+otro string "Hola mundo".
+
+Funciones (argumentos, return): Las funciones son objetos invocables, se usan para no repetir codigo. Utiliza argumentos 
+en su declaracion, los argumentos son variables a las cuales se les dara un valor a la hora de invocar la funcion. La declaracion 
+RETURN hace que los datos "salgan" de dentro de la funcion y puedan ser expuestos. Cuando la funcion tiene algo que retornar, 
+todo el codigo que siga luego sera ignorado.
+
+Declaraciones if: Son condicionales dentro de una funcion. If significa "Si se da lo siguiente" y va seguido de una condicion
+entre parentesis. Va acompanado de "return".
+
+Valores booleanos (true, false): Es un tipo de dato. Puede ir dentro de un Condicional o de un Return.
