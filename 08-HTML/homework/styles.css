@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://previews.123rf.com/images/bondd/bondd1901/bondd190100034/114393148-pizza-italiana-cl%C3%A1sica-casera-en-rodajas-con-ingredientes-y-aceite-de-oliva-vista-superior-del-espac.jpg);
+    position:absolute;
+    
+}
+
+
+h1 {
+    color: blue;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500;
+    background-color: cornflowerblue;
+    padding: 50px;
+    border: solid 3px rebeccapurple;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}

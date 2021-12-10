@@ -133,6 +133,7 @@ function elevarAlCuadrado(num) {
   // Tu código:
   var cuad = num * num;
   return cuad;
+  //return Math.pow(num, 2)  toma 2 argumentos, el declarado en la funcion y el num al q se elevaria
 }
 
 function elevarAlCubo(num) {
@@ -140,6 +141,7 @@ function elevarAlCubo(num) {
   // Tu código:
   var cubo = num * num * num;
   return cubo;
+  //return num * num * num    tambien puede ser asi
 }
 
 function elevar(num, exponent) {
